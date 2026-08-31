@@ -10,13 +10,30 @@
 
   <p>
     <dl width="wide">
+       <li>
+        <title>Wednesday, Sept 02</title>
+
+        <p>
+          First Day of Class
+        </p>
+      </li>
+
+      <li>
+        <title>Friday, Sept 04</title>
+
+        <p>
+          No Class
+        </p>
+      </li>
+
       <li>
         <title>Monday, Sept 07</title>
 
         <p>
-          No Class (Labor Day)
+          No Classes (Labor Day)
         </p>
       </li>
+
 
       <li>
         <title>Thursday, Sept 10</title>
@@ -26,11 +43,42 @@
         </p>
       </li>
 
+
+      <li>
+        <title>Friday, Sept 25</title>
+        <p>
+          Quiz 1
+        </p>
+      </li>
+
+
       <li>
         <title>Monday, Oct 12</title>
 
         <p>
-          No Classes (Columbus Day / Indigenous Peoples' Day)
+          No Classes (Columbus Day / Indigenous Peoples Day)
+        </p>
+      </li>
+
+      <li>
+        <title>Friday, Oct 16</title>
+        <p>
+          Quiz 2
+        </p>
+      </li>
+
+
+      <li>
+        <title>Thursday, Oct 29</title>
+        <p>
+          Midterm Day One
+        </p>
+      </li>
+
+      <li>
+        <title>Friday, Oct 30</title>
+        <p>
+          Midterm Day Two
         </p>
       </li>
 
@@ -44,13 +92,20 @@
       </li>
 
       <li>
+        <title>Friday, Nov 20</title>
+        <p>
+          Quiz 3
+        </p>
+      </li>
+
+      <li>
         <title>Wednesday, Nov 25</title>
 
         <p>
           Last Day to Withdraw with a W
         </p>
         <p>
-          Last Day to Take a Course Credit/No Credit
+          Last Day to Request Credit/No Credit
         </p>
       </li>
 
@@ -62,29 +117,36 @@
         </p>
       </li>
 
+      <li>
+        <title>Friday, Dec 11</title>
+        <p>
+          Quiz 4
+        </p>
+      </li>
+
 
       <li>
         <title>Monday, Dec 14</title>
 
         <p>
-          Semester Classes End	
+          Last Day of Class	
         </p>
       </li>
 
 
       <li>
-        <title>???</title>
+        <title>Wednesday, Dec 16</title>
 
         <p>
-          Section 001 Final Exam from ?? to ??
+          Section 001 Final Exam from 11:30am to 2:30pm
         </p>
       </li>
 
       <li>
-        <title>???</title>
+        <title>Thursday, Dec 17</title>
 
         <p>
-          Section 003 Final Exam from ?? to ??
+          Section 003 Final Exam from 11:30am to 2:30pm
         </p>
       </li>
     </dl>
